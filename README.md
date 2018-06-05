@@ -6,3 +6,9 @@ Sam.io is a self-driving robot assistant, capable of following you, recognizing 
 ## Hardware: 
 * TX1 ‘Jet’ Robot Kit
 * External cameras
+
+## Software:
+
+* Nvidia Cuda and Car API
+* Tensorflow
+* Alexa Voice Service
