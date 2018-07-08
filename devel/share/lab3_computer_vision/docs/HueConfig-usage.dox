@@ -1,0 +1,12 @@
+\subsubsection usage Usage
+\verbatim
+<node name="lab3_computer_vision" pkg="lab3_computer_vision" type="lab3_computer_vision">
+  <param name="hue_upper" type="int" value="120" />
+  <param name="hue_lower" type="int" value="80" />
+  <param name="sat_upper" type="int" value="255" />
+  <param name="sat_lower" type="int" value="0" />
+  <param name="value_upper" type="int" value="255" />
+  <param name="value_lower" type="int" value="0" />
+</node>
+\endverbatim
+

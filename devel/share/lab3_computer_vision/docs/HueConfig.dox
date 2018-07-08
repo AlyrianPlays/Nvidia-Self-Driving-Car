@@ -1,0 +1,11 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~hue_upper" : \b [int] hue_upper min: 0, default: 120, max: 180
+- \b "~hue_lower" : \b [int] hue_lower min: 0, default: 80, max: 180
+- \b "~sat_upper" : \b [int] sat_upper min: 0, default: 255, max: 255
+- \b "~sat_lower" : \b [int] sat_lower min: 0, default: 0, max: 255
+- \b "~value_upper" : \b [int] value_upper min: 0, default: 255, max: 255
+- \b "~value_lower" : \b [int] value_lower min: 0, default: 0, max: 255
+

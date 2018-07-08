@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/devel
+
+Name: camera_info_manager
+Description: Description of camera_info_manager
+Version: 1.11.10
+Cflags: -I/home/ubuntu/catkin_ws/src/libraries/image_common/camera_info_manager/include -I/usr/include
+Libs: -L/home/ubuntu/catkin_ws/devel/lib -lcamera_info_manager
+Requires: roscpp sensor_msgs
